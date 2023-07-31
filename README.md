@@ -1,2 +1,2 @@
 # CSES-Solutions
-Solutions to problems from www.cses.com
+Solutions to problems from [https://cses.fi/problemset](url)
